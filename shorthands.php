@@ -28,5 +28,5 @@
 <div>
     <?php foreach ($arr as $val):?>
         <?php echo $val; ?>
-    <?php endforeach; ?> 
-    </div>
+<?php endforeach; ?> 
+</div>
